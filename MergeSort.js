@@ -1,5 +1,4 @@
 
-
 function merge(arr1, arr2) {
     let arr3 = new Array(arr1.length + arr2.length);
     let ptr1 = 0;
